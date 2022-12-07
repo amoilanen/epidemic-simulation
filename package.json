@@ -4,7 +4,7 @@
   "description": "Simple model for epidemic simulation and its visualization",
   "main": "dist/server/index.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "lodash": "^4.17.15",
     "ws": "^7.2.3"
   },
